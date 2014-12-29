@@ -1,0 +1,288 @@
+@charset "utf-8";
+body{ background-image: url('images/wallp3.jpg'); 
+     margin: 0 10% 0 10%;
+	 color:brown;
+	 
+	 font-family:Gotham, Helvetica, Arial, sans-serif;
+	 
+    }
+header{
+	position:relative;
+    background-image: url('images/brown.jpg');
+	margin:0 -200px;	   
+}
+footer{
+	background-image: url('images/brown.jpg');
+ 	margin-bottom:0%;
+	position:absolute;
+	left:0;
+	right:0;
+	display:block;
+	text-align:center;
+}
+a{
+	text-decoration:none;
+	color:#666;
+}
+hr{
+	margin-top:60px;
+	left:0;
+   	right:0;
+}
+/*Basic Navigation Link Starts*/
+#logo{margin:20px 20px 0px 10%;     }
+#head{
+      list-style:none;
+      font-size:25px;
+      font-family:Gotham, Helvetica, Arial, sans-serif;
+      margin: 0 auto; /* you can set the left and right margins to auto to horizontally center that element within its container*/
+      width: 45em;
+     }
+#head li{float:left;
+       padding: 5px 5px 5px 5px;
+      }
+#head a{background-color:brown;
+color: white;
+       text-align: center;
+       width:6em;
+       margin: 0 10px;
+       text-decoration: none;/*removes underline from link*/
+       border: 2px solid white;
+       border-radius:6px;/*make border edges smooth*/
+       box-shadow: 0 5px 3px black;
+       text-shadow: black .1em .1em .1em;
+      
+       display: block;
+      }
+#head a:hover{border: 2px solid green;
+             color: green;
+		     cursor: pointer;
+		    }
+#head a:active{box-shadow:0 1px 2px;
+              top: 3px;
+		      color:violet;
+		      border: 2px solid violet;
+             } 
+/*Basic Navigation Link Ends*/
+
+/*Copyright Footer Starts*/
+#rights{
+	color: rgba(255,255,255,1.00);
+	font-family: Verdana, serif;
+		
+       }
+
+/*Copyright Footer Ends*/
+
+/*Initial Photo Starts*/
+#cover{margin:0 0 0 0px;
+       
+	  }
+/*Initial Photo Ends*/
+
+/*Ask the Chef Form Starts*/
+legend{font-family:Verdania, sans-serif;
+	 
+     }	 
+#form1{list-style:none;
+       font-family:Verdana, sans-serif;
+	   
+	  }
+/*Ask the Chef Form Ends*/
+
+/*Chefs TAB Starts*/
+#chef123 {margin-left:auto;
+                  margin-right:auto;}
+#img1,#img2,#img3,#img4,#img5,#img6{width: 200px;
+	                                height: 250px;
+	                                -webkit-box-shadow: 2px 2px 2px rgba(0,0,0,.4);
+	                                -webkit-transition: -webkit-transform .3s ease-in-out;
+                                    margin:75px 50px 20px 43px;	
+                                   }
+								 
+a:hover #img1, a:focus #img1{-webkit-transform: scale(1.5) rotate(-7deg);
+                            opacity: 0.5;
+							filter:alpha(opacity=50);/*for IE8 and before*/
+						   }
+a:active #img1{-webkit-transform: scale(1) rotate(-7deg);}
+a:hover #img2, a:focus #img2{-webkit-transform: scale(1.5) rotate(5deg);
+							opacity: 0.5;
+							filter:alpha(opacity=50);/*for IE8 and before*/
+                           }
+a:active #img2{-webkit-transform: scale(1) rotate(-5deg);}
+a:hover #img3, a:focus #img3{-webkit-transform: scale(1.5) rotate(-7deg);
+							opacity: 0.5;
+							filter:alpha(opacity=50);/*for IE8 and before*/
+                           }
+a:active #img3{-webkit-transform: scale(1) rotate(7deg);}
+a:hover #img4, a:focus #img4{-webkit-transform: scale(1.5) rotate(2deg);
+							opacity: 0.5;
+							filter:alpha(opacity=50);/*for IE8 and before*/
+						   }
+a:active #img4{-webkit-transform: scale(1) rotate(-2deg);}
+a:hover #img5, a:focus #img5{-webkit-transform: scale(1.5) rotate(-7deg);
+							opacity: 0.5;
+							filter:alpha(opacity=50);/*for IE8 and before*/
+                           }
+a:active #img5{-webkit-transform: scale(1) rotate(7deg);}
+a:hover #img6, a:focus #img6{	-webkit-transform: scale(1.5) rotate(2deg);
+							opacity: 0.5;
+							filter:alpha(opacity=50);/*for IE8 and before*/
+                           }
+a:active #img6{-webkit-transform: scale(1) rotate(-2deg);}
+/*Chefs TAB Ends*/
+
+/*Details About Chefs Starts*/	  
+ul {list-style-type: none;
+   padding: 0;
+   margin: 0;
+  }
+#chef123>li{float:left;
+  margin-right: 10px;
+ }
+li:last-of-type{
+	margin-right: 50px;
+              }
+#ch{float: left;
+	width: 210px;
+	margin: 0;
+    margin-left:-910px; 
+	outline: 2px solid white;
+	text-align:center;
+   }
+
+#main {float: left;
+	   width: 650px;
+	   margin: 0;
+	   margin-left: 30%;
+	   margin-right: auto;
+	   outline: 2px solid white;
+	   padding:10px 10px 10px 10px;
+      }
+#profile_img{width:190px;
+             height:190px;
+	         margin-left:10px;
+	         margin-bottom:10px;
+	        } 
+#chef_link{float: left;
+	width: 210px;
+	margin: 280px;
+    margin-left:-910px; 
+    }
+#chef_link2{margin:10px 10px 10px 5px;
+   background-color:white;
+   font-size:20px;
+   width:200px;
+   
+} 
+.chef_link3{border: 2px solid white;
+            float:right;
+             }
+.chef_link4{color:black;
+   text-decoration:none;
+   text-align:center;
+   float:right;}
+.chef_link4:hover{text-decoration:underline;
+                  text-transform: uppercase;
+				  color:yellowgreen;
+				 }   
+   
+/*Details about Chefs Ends*/
+form{margin-bottom:100px;}
+
+#rec{top:0;
+     width:530px;
+	 text-align:left;
+	 padding:0;
+	 margin:10px 10px 10px 10px;
+	}
+th, td{float:left;
+     }
+	 
+#inf{margin-left:135px;
+     margin-top:-80px;
+	 float:left;}
+#gal{padding-left:40px;}
+ 
+#gal>li{margin:20px 10px 20px 10px;
+       float:left;}
+
+#gal>li>a:hover, #gal>li>a:focus{
+                            opacity: 0.5;
+							filter:alpha(opacity=50);
+}
+
+#home1{color:brown;
+       margin:0 auto;}
+#qwerty{color:brown;
+
+}
+#benefits{
+	list-style:circle;
+}
+#do{
+	margin-left:500px;
+	margin-top:-70px;
+	list-style-image:url(images/arrow2.jpg);
+}
+
+#qwe{width: 200px;
+     margin:10px 50px 0px 43px;
+	 text-align:center;
+	 font-weight:bold;}
+#infor{
+	   margin-left:auto;
+       margin-right:auto;
+      }
+#rec123{margin-left:auto;
+        margin-right:auto;
+	}
+#img7,#img8,#img9,#img10,#img11,#img12{width: 200px;
+	                                height: 250px;
+	                                -webkit-box-shadow: 2px 2px 2px rgba(0,0,0,.4);
+	                                -webkit-transition: -webkit-transform .3s ease-in-out;
+                                    margin:20px 50px 20px 43px;	
+                                   }
+								 
+a:hover #img7, a:focus #img7{-webkit-transform: scale(1.5);
+                            opacity: 0.5;
+							filter:alpha(opacity=50);/*for IE8 and before*/
+						   }
+a:hover #img8, a:focus #img8{-webkit-transform: scale(1.5);
+							opacity: 0.5;
+							filter:alpha(opacity=50);/*for IE8 and before*/
+                           }
+a:hover #img9, a:focus #img9{-webkit-transform: scale(1.5);
+							opacity: 0.5;
+							filter:alpha(opacity=50);/*for IE8 and before*/
+                           }
+a:hover #img10, a:focus #img10{-webkit-transform: scale(1.5);
+							opacity: 0.5;
+							filter:alpha(opacity=50);/*for IE8 and before*/
+						   }
+a:hover #img11, a:focus #img11{-webkit-transform: scale(1.5);
+							opacity: 0.5;
+							filter:alpha(opacity=50);/*for IE8 and before*/
+                           }
+a:hover #img12, a:focus #img12{	-webkit-transform: scale(1.5);
+							opacity: 0.5;
+							filter:alpha(opacity=50);/*for IE8 and before*/
+                           }
+#social{background-color:black;
+        width:35px;
+		height:120px;
+		float:left;
+		margin-left:-10%;
+		position:fixed;
+		padding-left:5px;
+		padding-top:10px;
+		padding-bottom:10px;
+		}
+#social>a>img{padding-top:5px;
+		padding-bottom:5px;}
+
+#vid{margin:0 auto;
+     width:1000px;
+	 height:400px;}
+video{width:1000px;
+height:400px;}

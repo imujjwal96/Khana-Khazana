@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="slider.css">
+  <title>Khana Khazana</title>
+<link rel="shortcut icon" href="images/food.ico"> 
+ </head>
+
+ <body>
+  <header>
+   <img src="images/logo4.jpg" alt="Khana Khazana Logo" width="200px" height="100px" id="logo">
+  
+   <nav>
+    <ul id="head">
+     <li><a href="index.html" id="home">Home</a></li>
+     <li><a href="chefs.html"id="chefs">Chefs</a></li>
+     <li><a href="recipes.html" id="recipes">Recipes</a></li>
+     <li><a href="ask.html" id="ask">Ask Chefs</a></li>
+    </ul>
+   </nav>
+   
+   <hr>
+  </header>
+  <div id="social">
+   <a href="https://www.facebook.com/imujjwal96" target="_blank"><img src="images/fb.png" alt="Facebook" width="25" height="25"></a>
+   <a href="https://www.twitter.com/imujjwal96" target="_blank"><img src="images/twitter.png" alt="Twitter" width="25" height="25"></a>
+   <a href="https://plus.google.com/+UjjwalBhardwaj96/about" target="_blank"><img src="images/gplus.png" alt="Google+" width="25" height="25"></a>
+   </div>
+  <div id="slider">
+   <img src="images/image1.jpg" id="1">
+   <img src="images/image2.jpg" id="2">
+   <img src="images/image3.jpg" id="3">
+   <img src="images/image4.jpg" id="4">
+  </div>
+  <script src='js/jquery-1.11.1.min.js'></script>
+  <script src='js/slider.js'></script>
+
+  <div id="picks">
+  <h1>Our Top Picks</h1>
+  <hr>
+  <table id="rec123">
+   <tr>
+    <td><a href="link/sk/dishes/dish1.html" ><img src="link/sk/images/DalMakhani.jpg" alt="Click!" width="200px" height="200px" id="img7"></a></td>
+    <td><a href="link/ak/dishes/dish3.html" ><img src="link/ak/images/dish3.jpg" alt="Click!" width="200px" height="200px" id="img8"></a></td>
+    <td><a href="link/hn/dishes/dish1.html" ><img src="link/hn/images/dish1.jpg" alt="Click!" width="200px" height="200px" id="img9"></a></td>
+   </tr>
+   <tr>
+    <td><a href="link/kk/dishes/dish4.html" ><img src="link/kk/images/dish4.jpg" alt="Click!" width="200px" height="200px" id="img10"></a></td>
+    <td><a href="link/ss/dishes/dish3.html" ><img src="link/ss/images/dish3.jpg" alt="Click!" width="200px" height="200px" id="img11"></a></td>
+    <td><a href="link/vk/dishes/dish3.html" ><img src="link/vk/images/dish3.jpg" alt="Click!" width="200px" height="200px" id="img12"></a></td>
+   </tr>
+  </table>
+  <hr>
+  <form action="#">
+
+<fieldset>
+<legend>Submit Your Recipes</legend>
+<ul id="form1">
+<table>
+<tr><td><li><label for="form-name">Name:</label></td><td> <input type="text" name="username" id="form-name"></li></td></tr>
+<tr><td><li><label for="form-email">Email Address:</label></td><td> <input type="email" name="emailaddress" id="form-email"></li></td></tr>
+<tr><td><li><label for="form-story">My Recipe.....</label></td><td>
+<textarea name="story" rows="10" cols="60" maxlength="1000" id="form-story"></textarea></li></td></tr>
+
+</table>
+<fieldset>
+<legend>Upload</legend>
+<p>Upload a Video!!!</p>
+<input type="file" name="vid">
+<p>Upload an Image!!!</p>
+<input type="file" name="image">
+
+</fieldset>
+
+</ul>
+
+<p id="sub"><input type="submit" value="Submit!">
+<input type="reset"></p>
+</fieldset>
+
+
+</form>
+
+
+  </div>
+  
+   <footer>
+   <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>
+   <p id="rights">Powered by Integer Innovation</p>
+  </footer>
+</body>
+</html>

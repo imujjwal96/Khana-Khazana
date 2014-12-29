@@ -1,0 +1,722 @@
+[1mdiff --git a/ask.html b/ask.html[m
+[1mindex a2b55ac..32c2001 100644[m
+[1m--- a/ask.html[m
+[1m+++ b/ask.html[m
+[36m@@ -67,7 +67,6 @@[m
+   </div>[m
+   <footer>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p>[m
+[31m-  </footer> [m
+[32m+[m[32m     </footer>[m[41m [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/chefs.html b/chefs.html[m
+[1mindex 0fe4cff..c69d78a 100644[m
+[1m--- a/chefs.html[m
+[1m+++ b/chefs.html[m
+[36m@@ -47,7 +47,6 @@[m
+   </table>[m
+   <footer>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p>[m
+[31m-  </footer>[m
+[32m+[m[32m     </footer>[m
+   </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex cd51819..4ee017b 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -65,7 +65,6 @@[m
+   </table>[m
+   <footer>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p>[m
+[31m-  </footer>[m
+[32m+[m[32m     </footer>[m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/ak/about.html b/link/ak/about.html[m
+[1mindex c1cb293..013d1ad 100644[m
+[1m--- a/link/ak/about.html[m
+[1m+++ b/link/ak/about.html[m
+[36m@@ -93,7 +93,7 @@[m [mleft:-50%;[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/ak/dishes/dish1.html b/link/ak/dishes/dish1.html[m
+[1mindex c8629d0..880fa37 100644[m
+[1m--- a/link/ak/dishes/dish1.html[m
+[1m+++ b/link/ak/dishes/dish1.html[m
+[36m@@ -78,7 +78,7 @@[m [mTaste the curry and season to taste with salt and pepper. Serve immediately with[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/ak/dishes/dish2.html b/link/ak/dishes/dish2.html[m
+[1mindex 54b8a6c..9c25b75 100644[m
+[1m--- a/link/ak/dishes/dish2.html[m
+[1m+++ b/link/ak/dishes/dish2.html[m
+[36m@@ -129,7 +129,7 @@[m [mTo serve, spoon the mushroom and almond mixture into the centre of each of four[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/ak/dishes/dish3.html b/link/ak/dishes/dish3.html[m
+[1mindex e40b870..d51a47b 100644[m
+[1m--- a/link/ak/dishes/dish3.html[m
+[1m+++ b/link/ak/dishes/dish3.html[m
+[36m@@ -85,7 +85,7 @@[m [mTo serve, toss the fried hot potatoes with the pomegranate seeds, coriander and[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/ak/dishes/dish4.html b/link/ak/dishes/dish4.html[m
+[1mindex 2d246fc..61bd01d 100644[m
+[1m--- a/link/ak/dishes/dish4.html[m
+[1m+++ b/link/ak/dishes/dish4.html[m
+[36m@@ -77,7 +77,7 @@[m [mTo serve, pipe some of the cream into each wonton basket. Arrange the raspberrie[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/ak/dishes/dish5.html b/link/ak/dishes/dish5.html[m
+[1mindex 5d35569..d47c2b9 100644[m
+[1m--- a/link/ak/dishes/dish5.html[m
+[1m+++ b/link/ak/dishes/dish5.html[m
+[36m@@ -87,7 +87,7 @@[m [mFinally add the tomato puree and cook until the oil comes to the surface of the[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/ak/gallery.html b/link/ak/gallery.html[m
+[1mindex 36dd5b2..fb3376e 100644[m
+[1m--- a/link/ak/gallery.html[m
+[1m+++ b/link/ak/gallery.html[m
+[36m@@ -67,7 +67,7 @@[m [mleft:-50%;[m
+    [m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>[m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/ak/toprec.html b/link/ak/toprec.html[m
+[1mindex 9d5a9fe..96eeb1b 100644[m
+[1m--- a/link/ak/toprec.html[m
+[1m+++ b/link/ak/toprec.html[m
+[36m@@ -78,7 +78,7 @@[m [mleft:-50%;[m
+    </div>[m
+     <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>[m
+  [m
+    [m
+[1mdiff --git a/link/hn/about.html b/link/hn/about.html[m
+[1mindex 56d0f0b..95353a1 100644[m
+[1m--- a/link/hn/about.html[m
+[1m+++ b/link/hn/about.html[m
+[36m@@ -71,7 +71,7 @@[m [mleft:-50%;[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/hn/dishes/dish1.html b/link/hn/dishes/dish1.html[m
+[1mindex e3e19df..207acb4 100644[m
+[1m--- a/link/hn/dishes/dish1.html[m
+[1m+++ b/link/hn/dishes/dish1.html[m
+[36m@@ -80,7 +80,7 @@[m [mPeel , core and dice the apple, heat the remaining 1 tablespoon butter in a skil[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/hn/dishes/dish2.html b/link/hn/dishes/dish2.html[m
+[1mindex 542d046..fb929fe 100644[m
+[1m--- a/link/hn/dishes/dish2.html[m
+[1m+++ b/link/hn/dishes/dish2.html[m
+[36m@@ -70,7 +70,7 @@[m [mCut the corn in half so you have 12 pieces, insert skewers into the ends of the[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/hn/dishes/dish3.html b/link/hn/dishes/dish3.html[m
+[1mindex 455aef9..7afa8fc 100644[m
+[1m--- a/link/hn/dishes/dish3.html[m
+[1m+++ b/link/hn/dishes/dish3.html[m
+[36m@@ -71,7 +71,7 @@[m [mWhen the fire is hot (when you can hold your hand over the coals for 3 to 4 seco[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/hn/dishes/dish4.html b/link/hn/dishes/dish4.html[m
+[1mindex a1750f5..0cb84b5 100644[m
+[1m--- a/link/hn/dishes/dish4.html[m
+[1m+++ b/link/hn/dishes/dish4.html[m
+[36m@@ -61,7 +61,7 @@[m [mleft:-50%;[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/hn/dishes/dish5.html b/link/hn/dishes/dish5.html[m
+[1mindex 20edda4..39b0031 100644[m
+[1m--- a/link/hn/dishes/dish5.html[m
+[1m+++ b/link/hn/dishes/dish5.html[m
+[36m@@ -60,7 +60,7 @@[m [mThere is no recipe for grilled pineapple; I take a whole pineapple, cut off the[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/hn/gallery.html b/link/hn/gallery.html[m
+[1mindex b9f52c5..aab7851 100644[m
+[1m--- a/link/hn/gallery.html[m
+[1m+++ b/link/hn/gallery.html[m
+[36m@@ -67,7 +67,7 @@[m [mleft:-50%;[m
+    [m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>[m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/hn/toprec.html b/link/hn/toprec.html[m
+[1mindex 8bcf619..42e70eb 100644[m
+[1m--- a/link/hn/toprec.html[m
+[1m+++ b/link/hn/toprec.html[m
+[36m@@ -76,7 +76,7 @@[m [mleft:-50%;[m
+    </div>[m
+     <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>[m
+  [m
+    [m
+[1mdiff --git a/link/kk/about.html b/link/kk/about.html[m
+[1mindex 7e2ec80..88114d9 100644[m
+[1m--- a/link/kk/about.html[m
+[1m+++ b/link/kk/about.html[m
+[36m@@ -78,7 +78,7 @@[m [mleft:-50%;[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/kk/dishes/dish1.html b/link/kk/dishes/dish1.html[m
+[1mindex a66558d..1461765 100644[m
+[1m--- a/link/kk/dishes/dish1.html[m
+[1m+++ b/link/kk/dishes/dish1.html[m
+[36m@@ -70,7 +70,7 @@[m [mWhen all the syrup is absorbed, mix in cardamom powder and 2 tbsp canola oil, co[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/kk/dishes/dish2.html b/link/kk/dishes/dish2.html[m
+[1mindex 60e780d..fe380ee 100644[m
+[1m--- a/link/kk/dishes/dish2.html[m
+[1m+++ b/link/kk/dishes/dish2.html[m
+[36m@@ -76,7 +76,7 @@[m [ma pinch of Kasoori Methi powder<br>[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/kk/dishes/dish3.html b/link/kk/dishes/dish3.html[m
+[1mindex 5a55bbc..f7d8e6d 100644[m
+[1m--- a/link/kk/dishes/dish3.html[m
+[1m+++ b/link/kk/dishes/dish3.html[m
+[36m@@ -72,7 +72,7 @@[m [mleft:-50%;[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/kk/dishes/dish4.html b/link/kk/dishes/dish4.html[m
+[1mindex 285bfe2..86a2913 100644[m
+[1m--- a/link/kk/dishes/dish4.html[m
+[1m+++ b/link/kk/dishes/dish4.html[m
+[36m@@ -76,7 +76,7 @@[m [mSalt to taste<br>[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/kk/dishes/dish5.html b/link/kk/dishes/dish5.html[m
+[1mindex 58af810..47a2c5e 100644[m
+[1m--- a/link/kk/dishes/dish5.html[m
+[1m+++ b/link/kk/dishes/dish5.html[m
+[36m@@ -78,7 +78,7 @@[m [mCanola Oil to fry<br>[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/kk/gallery.html b/link/kk/gallery.html[m
+[1mindex 38412c0..823def3 100644[m
+[1m--- a/link/kk/gallery.html[m
+[1m+++ b/link/kk/gallery.html[m
+[36m@@ -67,7 +67,7 @@[m [mleft:-50%;[m
+    [m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>[m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/kk/toprec.html b/link/kk/toprec.html[m
+[1mindex 08bb902..8163b61 100644[m
+[1m--- a/link/kk/toprec.html[m
+[1m+++ b/link/kk/toprec.html[m
+[36m@@ -76,7 +76,7 @@[m [mleft:-50%;[m
+    </div>[m
+     <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>[m
+  [m
+    [m
+[1mdiff --git a/link/sk/about.html b/link/sk/about.html[m
+[1mindex 61e6294..b24c589 100644[m
+[1m--- a/link/sk/about.html[m
+[1m+++ b/link/sk/about.html[m
+[36m@@ -78,7 +78,7 @@[m [mleft:-50%;[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/sk/dishes/dish1.html b/link/sk/dishes/dish1.html[m
+[1mindex 519ed58..193f85f 100644[m
+[1m--- a/link/sk/dishes/dish1.html[m
+[1m+++ b/link/sk/dishes/dish1.html[m
+[36m@@ -80,7 +80,7 @@[m [mServe hot.</p>[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/sk/dishes/dish2.html b/link/sk/dishes/dish2.html[m
+[1mindex cebadb9..36d4bef 100644[m
+[1m--- a/link/sk/dishes/dish2.html[m
+[1m+++ b/link/sk/dishes/dish2.html[m
+[36m@@ -82,7 +82,7 @@[m [mStir in the cream, saffron and garam masala powder and salt to taste. Add the pa[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/sk/dishes/dish3.html b/link/sk/dishes/dish3.html[m
+[1mindex 5ae04bb..aa0c37d 100644[m
+[1m--- a/link/sk/dishes/dish3.html[m
+[1m+++ b/link/sk/dishes/dish3.html[m
+[36m@@ -77,7 +77,7 @@[m [mServe, garnished with chopped coriander leaves and scraped coconut.</p>[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/sk/dishes/dish4.html b/link/sk/dishes/dish4.html[m
+[1mindex 22df09f..d5d66fb 100644[m
+[1m--- a/link/sk/dishes/dish4.html[m
+[1m+++ b/link/sk/dishes/dish4.html[m
+[36m@@ -78,7 +78,7 @@[m [mAdjust salt, if required. Serve hot.[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/sk/dishes/dish5.html b/link/sk/dishes/dish5.html[m
+[1mindex 462d256..5f3d160 100644[m
+[1m--- a/link/sk/dishes/dish5.html[m
+[1m+++ b/link/sk/dishes/dish5.html[m
+[36m@@ -78,7 +78,7 @@[m [mSpread cheese sauce generously over the vegetables, sprinkle green chillies on t[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/sk/gallery.html b/link/sk/gallery.html[m
+[1mindex e7f6113..e5182fe 100644[m
+[1m--- a/link/sk/gallery.html[m
+[1m+++ b/link/sk/gallery.html[m
+[36m@@ -67,7 +67,7 @@[m [mleft:-50%;[m
+    [m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>[m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/sk/toprec.html b/link/sk/toprec.html[m
+[1mindex 3e3ea83..794fb1c 100644[m
+[1m--- a/link/sk/toprec.html[m
+[1m+++ b/link/sk/toprec.html[m
+[36m@@ -79,7 +79,7 @@[m [mleft:-50%;[m
+    </div>[m
+     <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>[m
+  [m
+    [m
+[1mdiff --git a/link/ss/about.html b/link/ss/about.html[m
+[1mindex b57c41e..14ecab7 100644[m
+[1m--- a/link/ss/about.html[m
+[1m+++ b/link/ss/about.html[m
+[36m@@ -82,7 +82,7 @@[m [mleft:-50%;[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/ss/dishes/dish1.html b/link/ss/dishes/dish1.html[m
+[1mindex e1d577d..3cd8fa4 100644[m
+[1m--- a/link/ss/dishes/dish1.html[m
+[1m+++ b/link/ss/dishes/dish1.html[m
+[36m@@ -73,7 +73,7 @@[m [mTo serve, divide the broccoli among 4 plates. Top with salmon and spoon raisins,[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/ss/dishes/dish2.html b/link/ss/dishes/dish2.html[m
+[1mindex eab6594..8284df0 100644[m
+[1m--- a/link/ss/dishes/dish2.html[m
+[1m+++ b/link/ss/dishes/dish2.html[m
+[36m@@ -72,7 +72,7 @@[m [mSpread pesto evenly over the crust, top with the broccoli mixture and sprinkle w[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/ss/dishes/dish3.html b/link/ss/dishes/dish3.html[m
+[1mindex f84aa49..75b72fa 100644[m
+[1m--- a/link/ss/dishes/dish3.html[m
+[1m+++ b/link/ss/dishes/dish3.html[m
+[36m@@ -76,7 +76,7 @@[m [mBake the cake until a skewer inserted in the center comes out clean, 30 to 35 mi[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/ss/dishes/dish4.html b/link/ss/dishes/dish4.html[m
+[1mindex 0d8839b..a2a956f 100644[m
+[1m--- a/link/ss/dishes/dish4.html[m
+[1m+++ b/link/ss/dishes/dish4.html[m
+[36m@@ -70,7 +70,7 @@[m [mImmediately pour the toasted oat mixture into the honey, add cranberries and sal[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/ss/dishes/dish5.html b/link/ss/dishes/dish5.html[m
+[1mindex 9e3d112..19c44e9 100644[m
+[1m--- a/link/ss/dishes/dish5.html[m
+[1m+++ b/link/ss/dishes/dish5.html[m
+[36m@@ -75,7 +75,7 @@[m [mReturn the pan to the oven and bake until the top of the cobbler is browned and[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/ss/gallery.html b/link/ss/gallery.html[m
+[1mindex 017c407..3f8c08f 100644[m
+[1m--- a/link/ss/gallery.html[m
+[1m+++ b/link/ss/gallery.html[m
+[36m@@ -67,7 +67,7 @@[m [mleft:-50%;[m
+    [m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>[m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/ss/toprec.html b/link/ss/toprec.html[m
+[1mindex e2736f8..afe7220 100644[m
+[1m--- a/link/ss/toprec.html[m
+[1m+++ b/link/ss/toprec.html[m
+[36m@@ -79,7 +79,7 @@[m [mleft:-50%;[m
+    </div>[m
+     <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>[m
+  [m
+    [m
+[1mdiff --git a/link/vk/about.html b/link/vk/about.html[m
+[1mindex 6369c7d..1a90807 100644[m
+[1m--- a/link/vk/about.html[m
+[1m+++ b/link/vk/about.html[m
+[36m@@ -90,7 +90,7 @@[m [mleft:-50%;[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/vk/dishes/dish1.html b/link/vk/dishes/dish1.html[m
+[1mindex edd41af..9156873 100644[m
+[1m--- a/link/vk/dishes/dish1.html[m
+[1m+++ b/link/vk/dishes/dish1.html[m
+[36m@@ -70,7 +70,7 @@[m [mKeep them covered with a damp kitchen towel. Gently silde the rolled dough into[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/vk/dishes/dish2.html b/link/vk/dishes/dish2.html[m
+[1mindex 40f2463..af5ec80 100644[m
+[1m--- a/link/vk/dishes/dish2.html[m
+[1m+++ b/link/vk/dishes/dish2.html[m
+[36m@@ -84,7 +84,7 @@[m [mEnjoy it with your friends, warm or room temperature.</div>[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/vk/dishes/dish3.html b/link/vk/dishes/dish3.html[m
+[1mindex f546bd4..079208d 100644[m
+[1m--- a/link/vk/dishes/dish3.html[m
+[1m+++ b/link/vk/dishes/dish3.html[m
+[36m@@ -91,7 +91,7 @@[m [mOnce the cupcakes have completely cooled, frost it with lovely swirls of the van[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/vk/dishes/dish4.html b/link/vk/dishes/dish4.html[m
+[1mindex ba00c74..49a5fe2 100644[m
+[1m--- a/link/vk/dishes/dish4.html[m
+[1m+++ b/link/vk/dishes/dish4.html[m
+[36m@@ -82,7 +82,7 @@[m [mBring the sauce to a simmer over medium heat and then add the cauliflower to the[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/vk/dishes/dish5.html b/link/vk/dishes/dish5.html[m
+[1mindex 3e64ad5..69136b0 100644[m
+[1m--- a/link/vk/dishes/dish5.html[m
+[1m+++ b/link/vk/dishes/dish5.html[m
+[36m@@ -76,7 +76,7 @@[m [mKeep them covered with a damp kitchen towel. Gently silde the rolled dough into[m
+   </div>[m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>   [m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/vk/gallery.html b/link/vk/gallery.html[m
+[1mindex bb55348..0c0d0d3 100644[m
+[1m--- a/link/vk/gallery.html[m
+[1m+++ b/link/vk/gallery.html[m
+[36m@@ -67,7 +67,7 @@[m [mleft:-50%;[m
+    [m
+   <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>[m
+  </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/link/vk/toprec.html b/link/vk/toprec.html[m
+[1mindex bd6d107..c152577 100644[m
+[1m--- a/link/vk/toprec.html[m
+[1m+++ b/link/vk/toprec.html[m
+[36m@@ -76,7 +76,7 @@[m [mleft:-50%;[m
+    </div>[m
+     <footer><br>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p><br>[m
+[32m+[m
+   </footer>[m
+  [m
+    [m
+[1mdiff --git a/recipes.html b/recipes.html[m
+[1mindex 8e13845..245d56a 100644[m
+[1m--- a/recipes.html[m
+[1m+++ b/recipes.html[m
+[36m@@ -88,7 +88,6 @@[m
+   [m
+    <footer>[m
+    <p id="rights">&copy 2014 Ujjwal Bhardwaj. All Rights Reserved.</p>[m
+[31m-   <p id="rights">Powered by Integer Innovation</p>[m
+[31m-  </footer>[m
+[32m+[m[32m     </footer>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
